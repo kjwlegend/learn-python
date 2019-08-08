@@ -106,7 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2337" />
     <option name="y" value="170" />
     <option name="width" value="1320" />
@@ -162,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.自动轨迹绘制">
+  <component name="RunManager" selected="Python.jiebaku">
     <configuration name="组合数据类型" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learn-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -297,7 +297,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.自动轨迹绘制" />
         <item itemvalue="Python.wenbencipintongji" />
         <item itemvalue="Python.jiebaku" />
         <item itemvalue="Python.组合数据类型" />
