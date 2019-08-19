@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0dd4a81-7eb1-4b7f-bbb6-6ceb01ab162e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/爬虫学习/week1-request/imagedownload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1600万验算.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icourse163/DayDayChange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icourse163/LearnString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icourse163/PythonDraw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitginore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitginore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/usefultools.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/爬虫学习/week1-request/imagedownload.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="48" column="41" lean-forward="true" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+            <state relative-caret-position="270">
+              <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
               <folding>
                 <element signature="e#17#32#0" expanded="true" />
               </folding>
@@ -129,8 +136,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="469" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="2408" />
+    <option name="y" value="184" />
     <option name="width" value="1458" />
     <option name="height" value="1047" />
   </component>
@@ -139,22 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="learn-python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="learn-python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="week7" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,6 +220,22 @@
               <item name="quotes" type="462c0819:PsiDirectoryNode" />
               <item name="quotes" type="462c0819:PsiDirectoryNode" />
               <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="learn-python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="learn-python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="week7" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -427,6 +435,7 @@
       <workItem from="1565238656559" duration="300000" />
       <workItem from="1565239037076" duration="37132000" />
       <workItem from="1565850010608" duration="31932000" />
+      <workItem from="1566186138556" duration="663000" />
     </task>
     <task id="LOCAL-00001" summary="learn from mooc">
       <created>1562843201550</created>
@@ -460,7 +469,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122498000" />
+    <option name="totallyTimeSpent" value="123161000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -472,15 +481,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="469" y="0" width="1458" height="1047" extended-state="0" />
+    <frame x="1912" y="-8" width="2576" height="1416" extended-state="7" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.50238854" side_tool="true" weight="0.1773374" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49761146" visible="true" weight="0.25071838" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49761146" visible="true" weight="0.14143427" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3494071" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3494071" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="3" weight="0.26595744" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.26561266" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32885376" />
@@ -489,7 +498,7 @@
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="10" weight="0.32988507" />
       <window_info anchor="bottom" id="TODO" order="11" weight="0.3287234" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.3705357" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.2624506" />
       <window_info anchor="bottom" id="Run" order="13" weight="0.31595746" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
@@ -664,12 +673,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module_import.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/module_import.py" />
+    <entry file="file://$PROJECT_DIR$/text2.txt" />
     <entry file="file://$PROJECT_DIR$/text2.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -843,8 +848,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/爬虫学习/week1-request/imagedownload.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="48" column="41" lean-forward="true" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+        <state relative-caret-position="270">
+          <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
           <folding>
             <element signature="e#17#32#0" expanded="true" />
           </folding>
